@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-👋 I'm Saurabh
-🎓 Final-year B.Tech. student at Delhi technological University.
-🧠 Deep into Machine Learning, Deep Learning, and practical problem-solving with data
-💻 Proficient in Python, TensorFlow, PyTorch, Scikit-learn, Pandas, and OpenCV
-🔎 Keen on NLP, computer vision, and turning raw data into useful, actionable insights
-🤝 Open to internships, applied research, and collaborations that solve real-world challenges
+👋 I'm Saurabh  
+🎓 Final-year B.Tech. student at Delhi technological University  
+🧠 Deep into Machine Learning, Deep Learning, and practical problem-solving with data  
+💻 Proficient in Python, TensorFlow, PyTorch, Scikit-learn, Pandas, and OpenCV  
+🔎 Keen on NLP, computer vision, and turning raw data into useful, actionable insights  
+🤝 Open to internships, applied research, and collaborations that solve real-world challenges  
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-saini-279117375/)
