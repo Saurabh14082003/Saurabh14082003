@@ -2,7 +2,7 @@
 
 👋 I'm Saurabh  
 🎓 Final-year B.Tech. student at Delhi technological University  
-🧠 Deep into Machine Learning, Deep Learning, and practical problem-solving with data  
+🧠 Deep into Machine Learning, Deep Learning, and Data Analysis 
 💻 Proficient in Python, TensorFlow, PyTorch, Scikit-learn, Pandas, and OpenCV  
 🔎 Keen on NLP, computer vision, and turning raw data into useful, actionable insights  
 🤝 Open to internships, applied research, and collaborations that solve real-world challenges  
